@@ -1,5 +1,5 @@
 # security-context
 
-I tried remaking security context via print identity so....
+remade security context via print identity. useful for checking your identity/permssion level
 
-in `printidentity` you can find this or you can probably find it somewhere in loadstring too? i believe i may be wrong but yea maybe you can do something the only useful thing i can think of is using it as getthreadidentity
+in `printidentity` you can find this. 
